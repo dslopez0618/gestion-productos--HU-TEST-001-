@@ -22,7 +22,7 @@
    - Accede en `http://localhost:4200`.
 
 ### Base de Datos
-- Usa `create_products.sql` para crear la tabla `Products` en SQL Server.
+- Usa el script `/db-scripts/create_products.sql` para crear la tabla `Products` en SQL Server y crear datos de prueba.
 
 ## Estructura del Proyecto
 - **ProductManagement.Domain**: Entidades y contratos.
